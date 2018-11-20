@@ -3,7 +3,7 @@ title: Hexo(Next) + GitHub + Netlify
 date: 2018-11-06 18:16:12
 tags: Hexo
 categories: Hexo 教程
-top: 1
+top: 
 image: https://i.loli.net/2018/11/12/5be8f3abb3203.jpg
 ---
 
